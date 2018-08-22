@@ -1,1 +1,87 @@
-<!-- preparing--!>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="fr">
+ÉDITION CRITIQUE DE VOYAGE AU PAYS DE LA QUATRIÈME DIMENSION(1923)
+</title>
+<author>
+ Dion Masanao Sato
+</author>
+<respStmt>
+<resp>compiled by</resp>
+<name>Dion Masanao Sato</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition n="v1">
+Project's first edition.
+</edition>
+</editionStmt>
+<publicationStmt>
+ <distributor>Dion Masanao Sato</distributor>
+ <availability status="restricted">
+<p>Available for academic research purpose only. This text is distributed by CC-BY-SA 2.0, and restricted by the prescription on the copyright law in Gallica.</p>
+ </availability>
+</publicationStmt>
+<sourceDesc>
+<biblStruct>
+<monogr>
+<author>Gaston WIlliam de Pawlowski</author>
+<title>VOYAGE AU PAYS DE LA QUATRIÈME DIMENSION</title>
+<imprint>
+<pubPlace>Paris</pubPlace>
+<publisher>Édition Grasset et Fasquelle</publisher>
+<date when="1923">1923</date>
+</imprint>
+</monogr>
+<monogr>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>Imaged Modernes</publisher>
+    <date when="2004">2004</date>
+  </imprint>
+</monogr>
+<series>
+  <title level="s">INVENTEURS DE FORMES</title>
+  <biblScope unit="volume">5</biblScope>
+</series>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<schemaSpec ident="pawlowski-project" start="TEI">
+<moduleRef key="tei"/>
+<moduleRef key= "header"/>
+<moduleRef key="core"/>
+<moduleRef key="textstructure"/>
+ <moduleRef key="p5" source="tei: p5"/>
+</schemaSpec>
+<editorialDecl>
+<p>
+This edition is aim to research of Gason de Pawlowski. Picking up words concerning french intellectual things in the late 19c or 20c and comparing three version, it might be useful for study for french intellectuals.This revision starts from personal project. 
+</p>
+</editorialDecl>
+<charDecl>
+<glyph xml:id="e1">
+<glyphName>Superscript</glyphName>
+<charProp>
+<localName>super</localName>
+<value>e1</value>
+</charProp>
+ </glyph>
+ </charDecl>
+</encodingDesc>
+</teiHeader>
+<text xml:lang="fr">
+<body>
+<div type="EXAMEN CRITIQUE" n="1">
+<head>Il faut nous résoudre à cette édition définitive.</head>
+<p><fw type="pagenum">42</fw>
+  Depuis le début de 1895, où j'écrivas un premier conte sur l'exploration du temps, jusqu'en 1912, data à laqulle parut la première édition de ce volume, le <emph style="font-style: italic">Voyage au pays de la quatrième dimension</emph> resta pour moi en prepétuel mouvement; publié par fragments suivant les intuitions du moment, repris, recoupé, puis, complété, sa publication d'ensemble ne put mettre un terme à un travail qui se confond avec celui de ma pensée; tant il est vrais qu'il paraît difficile, en certaines matières, de ne point parler de tout à l'occasion de quelque chose.
+</p>
+</div>
+</body>
+</text>
+</TEI>
