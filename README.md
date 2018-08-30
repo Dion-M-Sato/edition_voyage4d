@@ -3,7 +3,7 @@
 This project for the edition of *Voyage au pays de la quatrième dimension* by Gaston de Pawlowski which is marked up with following TEI rules.
 
 - Do not support hyphenation.
-- Each news paper's edition is described in sourceDesc with msDesc.
+- Each newspaper's edition is described in sourceDesc with msDesc.
 - All Chapters has `<div>` and `<head>`.
 - Each paragraph has `<p>`.
 - All pages is marked as `<fw type="pagenum">`.
