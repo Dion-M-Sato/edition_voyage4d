@@ -15,5 +15,7 @@ This project for the edition of *Voyage au pays de la quatrième dimension* by G
 
 ---
 
-This edition is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). 
+This edition is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+
 This work was supported by JSPS KAKENHI Grant Number 18J22570.
